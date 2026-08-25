@@ -7,6 +7,15 @@ Course materials and lab examples for **Embedded System I**, focused on computer
 
 ![VS Code / Venus IDE](resources/images/vscode-window.png)
 
+## Table of contents
+
+- [Course structure](#course-structure)
+- [Assessment (2026)](#assessment-2026)
+  - [Study checklist by quiz](#study-checklist-by-quiz)
+- [Repository layout](#repository-layout)
+- [Getting started](#getting-started)
+- [Related links](#related-links)
+
 ---
 
 ## Course structure
