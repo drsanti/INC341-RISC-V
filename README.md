@@ -47,6 +47,8 @@ Full video index (titles, durations, links): [docs/PLAYLIST.md](docs/PLAYLIST.md
 
 *(BASIC-00 is course overview; recommended before Quiz 1, not listed in the quiz scope above.)*
 
+Practice set (ตัวอย่างแนวข้อสอบ + เฉลย): [`docs/quizes/quiz1_example_computer_architecture.md`](docs/quizes/quiz1_example_computer_architecture.md)
+
 **Quiz 2 — tools & first instructions**
 
 - EP01 Software Tools Installation  
@@ -79,7 +81,8 @@ Full video index (titles, durations, links): [docs/PLAYLIST.md](docs/PLAYLIST.md
 INC341-RISC-V/
 ├── README.md                 # This file
 ├── docs/
-│   └── PLAYLIST.md           # Full YouTube playlist index
+│   ├── PLAYLIST.md           # Full YouTube playlist index
+│   └── quizes/               # Quiz practice sets & answer keys
 ├── asm/                      # Assembly examples used in the videos
 │   ├── README.md             # File ↔ episode mapping
 │   ├── asm01.s … asm16.s
@@ -96,6 +99,7 @@ INC341-RISC-V/
 | [`asm/`](asm/) | RISC-V assembly examples demonstrated in the playlist |
 | [`resources/`](resources/) | C reference snippets, draw.io diagrams, screenshots |
 | [`docs/PLAYLIST.md`](docs/PLAYLIST.md) | Complete video list with links and durations |
+| [`docs/quizes/`](docs/quizes/) | Quiz practice sets (e.g. [Quiz 1 example](docs/quizes/quiz1_example_computer_architecture.md)) |
 | [`.vscode/`](.vscode/) | Workspace settings (Venus variable format, theme, etc.) |
 
 ---
