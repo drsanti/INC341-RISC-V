@@ -50,7 +50,7 @@ Source: [YouTube playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeU8j
 |------|------|--------|
 | Quiz 1 | 1 Sep 2026 | BASIC-01 … BASIC-07 |
 | Quiz 2 | 22 Sep 2026 | EP01 … EP05 |
-| Quiz 3 | 20 Oct 2026 | EP06 … EP09 |
+| Quiz 3 | ~~20 Oct 2026~~ → 27 Oct 2026 | EP06 … EP09 |
 | Quiz 4 | 17 Nov 2026 | EP10 … EP15 |
 
 See the main [README.md](../README.md) for score weights (theory vs programming).
