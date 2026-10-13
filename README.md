@@ -84,8 +84,6 @@ Practice set (ตัวอย่างแนวข้อสอบ + เฉลย
 - EP14 7-Segment Display Codes
 - EP15 7-Segment and Counter
 
-> **Bonus (+2):** Handwritten notes on **2 pages of A4 paper** earn a special **+2** bonus.
-
 ---
 
 ## Repository layout
