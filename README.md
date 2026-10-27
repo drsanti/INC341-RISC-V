@@ -37,7 +37,7 @@ Full video index (titles, durations, links): [docs/PLAYLIST.md](docs/PLAYLIST.md
 | ---------- | ----------------- | ------------------- | ------- | ------ | ----------- |
 | **Quiz 1** | 1 September 2026  | BASIC-01 → BASIC-07 | **20%** | 20%    | —           |
 | **Quiz 2** | 22 September 2026 | EP01 → EP05         | **20%** | 15%    | 5%          |
-| **Quiz 3** | 20 October 2026   | EP06 → EP09         | **25%** | 15%    | 10%         |
+| **Quiz 3** | ~~20 October 2026~~ → 27 October 2026 | EP06 → EP09         | **25%** | 15%    | 10%         |
 | **Quiz 4** | 17 November 2026  | EP10 → EP15         | **35%** | 25%    | 10%         |
 
 **Total: 100%** (theory 75%, programming 25%)
